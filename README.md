@@ -5,4 +5,4 @@ linea de prueba
 
 y ahora trello de prueba
 
-Veo el tema del Issue, hago el pull request
+Veo el tema del Issue, hago el pull request y close
